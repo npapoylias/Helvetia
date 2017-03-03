@@ -13,5 +13,5 @@ SmalltalkCISpec {
     #categories : ['Cutie-*', 'Helvetia-*', 'LanguageBoxes*', 'QuasiQuote-*']
   }
   }
-}
+} 
  
