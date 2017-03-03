@@ -4,4 +4,4 @@ os:
   - linux
   - osx
 smalltalk:
-  - Moose-6.0
+  - Moose-6.1
